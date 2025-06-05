@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.shivamcodes.me.ico",
     "slug": "blog-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "1.98%",
+    "uptimeDay": "1.98%",
+    "uptimeWeek": "1.98%",
+    "uptimeMonth": "1.98%",
+    "uptimeYear": "1.98%",
     "time": 343,
     "timeDay": 343,
     "timeWeek": 343,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   },
   {
     "name": "Google",
