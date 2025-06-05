@@ -1,0 +1,19 @@
+owner: isthatyous
+repo: Regtech-monitoring
+user-agent: koj-co
+
+sites:
+  - name: BlogPage
+    url: https://blog.shivamcodes.me
+    method: GET
+  - name: Google
+    url: https://www.google.com
+    method: GET
+
+assignees:
+  - isthatyous
+
+status-website:
+  theme: light
+  name: Regtech Uptime Monitor
+  baseUrl: /Regtech-monitoring
